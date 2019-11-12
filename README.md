@@ -4,7 +4,7 @@
 
 ### Hola soy Jhon me puedes decir JP.
 
- <img src="media/jp_hack.jpg" width="400" /> ![](yo)
+ <img src="media/jp_hack.jpg" width="400" /> ![](https://www.instagram.com/p/BpnXExyBAel/)
 
 Estudio Ingeniería en Software en la Universidad de Guayaquil, me gusta la tecnología, maker por accidente arregle la tostatora cuando era pequeño y salve el desayuno.
 
