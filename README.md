@@ -5,7 +5,7 @@
 ## Hola soy Jhon me puedes decir JP.
 
 <p align="center">
-  <img width="300" height="300" src="/media/jp_hack.jpg">
+  <img width="300" height="300" src="https://github.com/jhonpaulo98/AboutMe/blob/master/media/jp_hack.jpg">
 </p>
 
 ### Estudio Ingeniería en Software en la Universidad de Guayaquil, me gusta la tecnología, maker por accidente arregle la tostatora cuando era pequeño y salve el desayuno.
