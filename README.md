@@ -4,7 +4,7 @@
 
 Hola soy Jhon me puedes decir JP.
 
-![me jakiaron]()
+![me jakiaron](https://github.com/jhonpaulo98/AboutMe/blob/master/media/jp_hack.jpg)
 
 Estudio Ingeniería en Software en la Universidad de Guayaquil, me gusta la tecnología, maker por accidente arregle la tostatora cuando era pequeño y salve el desayuno.
 
@@ -15,3 +15,5 @@ Estudio Ingeniería en Software en la Universidad de Guayaquil, me gusta la tecn
 Visita mi mapa interactivo de eventos
 
 [JP en el mundo](https://gist.github.com/25ecb143aead8a19acdb36469155cd22)
+
+
