@@ -14,10 +14,9 @@ Estudio Ingeniería en Software en la Universidad de Guayaquil, me gusta la tecn
 
 ### En redes sociales me puedes encontrar como @jhon_p16
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/240px-Instagram-Icon.png)](https://www.instagram.com/jhon_p16 "link a instagram")
+[![Instagram](media/58e91a89eb97430e81906502.png)](https://www.instagram.com/jhon_p16 "link a instagram")
 
-[![Instagram](<img src="media/jp_hack.jpg" width="400" />)](https://twitter.com/jhon_p16 "link a twitter")
-
+[![Instagram](https://github.com/jhonpaulo98/jhonpaulo98.github.io/blob/master/media/tw.png)](https://twitter.com/jhon_p16 "link a twitter")
 
 ### Visita mi mapa interactivo de eventos
 
