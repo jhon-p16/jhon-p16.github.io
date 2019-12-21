@@ -9,7 +9,7 @@ order: 3
 Algunas literaturas recomendadas:
 
 
-1. Robert Burton: *The Anatomy of Melancholy*
+1. [Manifiesto Ágil](https://agilemanifesto.org/iso/es/manifesto.html)
 
 
-source: SIUG materia guion
+source: SIUG Syllabus
