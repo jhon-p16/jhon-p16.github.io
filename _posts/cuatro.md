@@ -1,24 +1,89 @@
 ---
-title: Fourth Post
-author: Chris
+title: II.-Procesos del software
+author: JP
 layout: post
 ---
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+**Definicion y proceso del software**
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+Muchos de los procesos de software son diferentes, pero todos implican:
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+  - Especificación;
+  - Diseño e implementación;
+  - Validación;
+  - Evolución.
 
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
+CARACTERISTICAS
 
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.
+  - El proceso establece todas las actividades principales
+  - El proceso utiliza recursos, está sujeto a una serie de restricciones y genera productos intermedios y finales
+  - El proceso puede estar compuesto de subprocesos que se encadenan de alguna manera. Puede definirse como una jerarquía de procesos organizada de modo que cada subproceso tenga su propio modelo de proceso
+  - Cada actividad del proceso tiene criterios de entrada y de salida, de modo que se conoce cuándo comienza y cuándo termina una actividad
+  - Las actividades se organizan en secuencia de modo que resulta claro cuando una actividad se realiza en orden relativo a otras actividades
+  - Todo proceso tiene un conjunto de principios orientadores que explican las metas de cada actividad
+  - Las restricciones o controles pueden aplicarse a una actividad, recurso o producto
 
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
+OTRAS CARACTERISTICA
 
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+  **Comprensión**
 
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
+Está definido y es comprensible
+
+- **Visibilidad**
+
+Se visualizan los progresos externamente
+
+- **Soporte**
+
+Está soportado por herramientas CASE
+
+- **Aceptación**
+
+Es aceptable para todos los actores implicados
+
+- **Confianza**
+
+Los errores del proceso se detectan antes de que se produzcan errores en el producto
+
+- **Robustez**
+
+Se puede continuar a pesar de problemas inesperados
+
+- **Capacidad de mantenimiento**
+
+Puede ajustarse a las necesidades de cambio de la organización
+
+- **Rapidez**
+
+Con qué &quot;velocidad&quot; se producen los sistemas
+
+- **Adaptación**
+
+Capacidad que tiene un usuario del mismo de adaptarlo a sus necesidades
+
+IMPORTANCIA
+
+Un proceso software debe especificar:
+
+  - La **secuencia de actividades** a realizar por el equipo de desarrollo
+    - Flujo de actividades
+  - Los **productos** que deben crearse
+    - Resultados del trabajo (modelos, documentos, datos informes...)
+    - Qué y cuándo
+  - La **asignación de tareas** a cada miembro del equipo y al equipo como un todo
+- Los **criterios** para controlar el proceso
+  - Se establece el control de gestión de los proyectos software
+  - Establecimiento de hitos
+- Las posibles **heurísticas**
+  - Facilita la gestión del proyecto
+  - Establece una división del trabajo
+  - Facilita la comunicación de los miembros del equipo
+  - Permite la reasignación y la reutilización de personal especializado
+    - Transferencia entre proyectos
+  - Mejora la productividad y el desarrollo
+    - El desarrollo es reproducible
+  - Establece el contexto en el que se aplican los métodos técnicos
+  - Gestiona el cambio adecuadamente
+  - Asegura la calidad
