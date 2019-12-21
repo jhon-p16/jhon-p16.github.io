@@ -1,5 +1,5 @@
 ---
-title: I.-istemas de información
+title: I.-Sistemas de información
 author: JP
 layout: post
 ---

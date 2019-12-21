@@ -3,7 +3,7 @@ title: II.-Modelos de desarrollos; tradicionales vs alternativos
 author: JP
 layout: post
 ---
-**MODELO GENERAL DEL PROCESO DE DESARROLLO DE SOFTWARE**
+**Modelo general:**
 
 Los modelos de proceso de desarrollo de software incluyen los requisitos del sistema como entrada y un producto entregado como salida
 

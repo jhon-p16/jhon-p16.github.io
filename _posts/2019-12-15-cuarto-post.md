@@ -4,7 +4,7 @@ author: JP
 layout: post
 ---
 
-**Definicion y proceso del software**
+**Definicion y proceso del software:**
 
 Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.
 
